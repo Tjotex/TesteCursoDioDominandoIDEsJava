@@ -1,3 +1,5 @@
 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
 
 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 (eclipse)
+
+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 (intellij)
